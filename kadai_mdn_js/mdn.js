@@ -1,4 +1,4 @@
-const date=new Date('2023,8,22');
+const date=new Date();
 const year= date.getFullYear();
 const day= date.getDate();
 //月のカウントが０からのスタ－トになるので、
